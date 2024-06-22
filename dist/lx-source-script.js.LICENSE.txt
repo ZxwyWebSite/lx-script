@@ -1,0 +1,7 @@
+/*!
+ * @name Lx-Source-Script
+ * @description 洛雪音乐自定义源脚本
+ * @version v1.1.0
+ * @author Zxwy
+ * @homepage https://github.com/ZxwyWebSite/lx-script
+ */
